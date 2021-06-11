@@ -6,7 +6,7 @@
 int main()
 {
 
-	std::cout << "André Guilherme mendes da luz bastos,\n";
+	std::cout << "Andre Guilherme mendes da luz bastos\n";
 	std::cout << "start a unreal engine course\n";
 
 }
